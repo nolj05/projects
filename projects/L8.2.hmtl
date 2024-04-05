@@ -1,0 +1,39 @@
+<hmtl>
+
+<head>
+
+  <title>Dividers</title>
+
+</head>
+
+<body>
+
+  <header>
+    
+     <h1>dividers and Ids</h1>
+
+  </header>
+
+  <div id="first section">
+
+    <p>drivers</p>
+
+    <p>and Ids</p>
+
+  </div>
+
+  <div id="links">
+  
+  </div>
+
+   <footer>
+
+     <p>leason 8</p>
+
+     <p>divisions</p>
+
+    </footer>
+
+   </body>
+
+  </html>
