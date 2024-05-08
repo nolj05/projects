@@ -1,0 +1,17 @@
+<html>
+
+<body>
+
+<span id="Germany">Germany</span>
+
+<span style="font-size: 1rem">Poland</span>
+
+<span id="Turkey">Turkey</spam>
+
+
+
+href="/cliparts/5/9/4/8/11949945401025437070documentinfo.svg.thumb.png"><img src="/cliparts/5/9/4/8/11949945401025437070documentinfo.svg.thumb.png" alt='Information clip art'/></a>
+
+</body>
+
+</html>
